@@ -1,7 +1,7 @@
 <?php
 /**
  * If you need an environment-specific system or application configuration,
- * there is an example in the documentation
+ * there is an example in the documentation 
  * @see http://framework.zend.com/manual/current/en/tutorials/config.advanced.html#environment-specific-system-configuration
  * @see http://framework.zend.com/manual/current/en/tutorials/config.advanced.html#environment-specific-application-configuration
  */
